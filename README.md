@@ -67,12 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Acknowledgments
-
-Here, you can mention any resources, libraries, tools, or people that helped you during the development of this project. Examples could include tutorials, GitHub repos, or inspiration from other projects.
-
----
-
 ## Contact
 
 If you have any questions or would like to reach out, you can contact me at [your-email@example.com](tanjeedhasan42@gmail.com).
